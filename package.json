@@ -1,0 +1,32 @@
+{
+  "name": "DarkGreenJungle",
+  "publisher": "moondevaa",
+  "displayName": "Dark Green Jungle",
+  "description": "  a Relax theme  with dark green jungle color and green palette (Jungle green,Tea green,Sea green,Medium Jungle,) ",
+  "version": "0.1.0",
+  "engines": {
+    "vscode": "^1.78.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AaBbdev29/Dark-Green-Jungle"
+  },
+  "icon": "moon.jpg", 
+  "theme": "dark",
+  "license": "SEE LICENSE IN LICENSE.txt",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dark Green Jungle",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark-green-jungle-color-theme.json"
+      }
+    ]
+  }
+  ,"scripts": {
+    "deploy": "vsce publish --yarn"
+  }
+}
