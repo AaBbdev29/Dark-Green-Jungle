@@ -24,6 +24,11 @@ fixed most bugs ..
   </div>
 
 ## Screenshots
+<div align="center">
+    <h2>Python</h2>
+    <img src="https://raw.githubusercontent.com/AaBbdev29/Dark-Green-Jungle/main/py.png" alt="python">
+</div>
+
  <div align="center">
     <h2>React js</h2>
     <img src="https://raw.githubusercontent.com/AaBbdev29/Dark-Green-Jungle/main/green.jpg" alt="green">
@@ -31,5 +36,4 @@ fixed most bugs ..
 
 ###########
 
-</div>
 
