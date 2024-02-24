@@ -3,13 +3,19 @@
   "publisher": "moondevaa",
   "displayName": "Dark Green Jungle theme",
   "description": "  a Relax theme  with dark green jungle color and green palette (Jungle green,Tea green,Sea green,Medium Jungle,) ",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "engines": {
     "vscode": "^1.78.0"
   },
   "categories": [
     "Themes"
   ],
+  "keywords": ["dark","green","jungle","forest","olive","hunter","rain-forest","amazon","deep-green","medium-green","moss","myrtle",
+"pine","emerald","sea","sage","lime","jade","fern","Laurel-green","mint","kelly-green","paris-green",
+"celadon","avocado","spring","screamin","swamp","mantis","fun","reseda","verdan","gin",
+"bitter-lime","bottle-green","cadmium=green","camouflage","pear","dollar","asparagus",
+"caribbean-green","go","malachite","rifle","volt","thyme","corn","shrek","lightsaber","girl-scout",
+"tennis","crayola","vivid","pistachio","sheen"],
   "repository": {
     "type": "git",
     "url": "https://github.com/AaBbdev29/Dark-Green-Jungle"
