@@ -3,7 +3,7 @@
   "publisher": "moondevaa",
   "displayName": "Dark Green Jungle theme",
   "description": "  a Relax theme  with dark green jungle color and green palette (Jungle green,Tea green,Sea green,Medium Jungle,) ",
-  "version": "0.1.8",
+  "version": "0.2.0",
   "engines": {
     "vscode": "^1.78.0"
   },
@@ -14,7 +14,16 @@
 "pine","emerald","sea","sage","lime","jade","fern","Laurel-green","mint","kelly-green","paris-green","Ebony","Granite","Warm",
 "celadon","avocado","spring","screamin","swamp","mantis","fun","reseda","verdan","gin","tropical","bitter-lime","bottle-green","cadmium-green","camouflage","pear","dollar","asparagus",
 "caribbean-green","go","malachite","rifle","volt","thyme","corn","shrek","lightsaber","girl-scout",
-"tennis","crayola","vivid","pistachio","sheen"],
+"tennis","crayola","vivid","pistachio","sheen","attarctive","zenburn","webstrome","winter","wind","vibe","universe","ultra",
+"ultimate","ubuntu","linux","turbo","true","false","tomorrow","terminal","syntax","sweet","super","sun","Saturn","style","star","krita",
+"soft","space","smooth","smile","laught","sky","simple","easy","silver","semantic","seti","sakura","ruby","relax","rainbow","rainglow",
+"radial","radical","pro","professional","palette","plastic","palennight","pack","orginal","omini","official","obsidian","nice",
+"nemo","neo","new","folder","nano","modern","minimal","mega","max","material","mangic","low","laser","just","jelly","infinity"
+,"indigo","hot","hope","high","hack","galaxy","full","firefly","fantastic","extra","elegant","design","deep","puss","dream",
+"cyber","custom","performance","cool","cold","another","app","auora","base","beautiful","pretty","pinky","better","good","well",
+"lovely","box","2077","music","tune","snow","kde","gnome","breeze","Fluent-round","sunrise","story","layan","lightning",
+"flight","dexy","sunset","jasper","amy","Marwaita","kimi","big-sur","orchis","vortex"
+],
   "repository": {
     "type": "git",
     "url": "https://github.com/AaBbdev29/Dark-Green-Jungle"
