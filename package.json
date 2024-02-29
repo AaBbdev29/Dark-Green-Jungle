@@ -3,7 +3,7 @@
   "publisher": "moondevaa",
   "displayName": "Dark Green Jungle theme",
   "description": "  a Relax theme  with dark green jungle color and green palette (Jungle green,Tea green,Sea green,Medium Jungle,) ",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "engines": {
     "vscode": "^1.78.0"
   },
@@ -22,7 +22,17 @@
 ,"indigo","hot","hope","high","hack","galaxy","full","firefly","fantastic","extra","elegant","design","deep","puss","dream",
 "cyber","custom","performance","cool","cold","another","app","auora","base","beautiful","pretty","pinky","better","good","well",
 "lovely","box","2077","music","tune","snow","kde","gnome","breeze","Fluent-round","sunrise","story","layan","lightning",
-"flight","dexy","sunset","jasper","amy","Marwaita","kimi","big-sur","orchis","vortex"
+"flight","dexy","sunset","jasper","amy","Marwaita","kimi","big-sur","orchis","vortex","Artichoke","arugula","asparagus","avocado",
+"basil","bay-leaf","beans","bell-pepper","bok-choy","broccoli","brussels-sprouts","celery","chives","cucumber","dill","edamame",
+"fennel","fruit","grapes","apple","guacamole","jello","lima","Parsley","pear","pickles","Pistachios","rosemary","salad","Serrano",
+"spinach","tarragon","tomato","watermelon","zinna","Zucchini","football-field","garden","wreath","aloe","aphid","cactus",
+"caterpillar","clover","crocodile","frog","geckos","grass","iguana","leaves","lily-pad","palm","peacook","plants","sea-weed",
+"holiday","sprite","nature","celery","parsley","collard","lettuce","marrow","Zucchinis","peas","Peacocks","Soursop","Chives",
+"Honeydew","Eclectus-Parrot","tree","Knight-Anoles","chess","Rubber-Figs","eyes","trick","mung","Hellebores","Turtle","Chameleon",
+"Snail","jay","Kakapo","doctor-doom","loki","piccolo","miss-martian","raphael","zim","cragger","Donatello","gamora","Ben-Tennyson",
+"grinch","Poison-Ivy","Princess","yoda","Mike-Wazowski","hulk","rex","hal-jordan","yoshi","Kermit-the-Frog","oscar","Plankton",
+"mask","Buttercup","Perry-the-Platypus","Goblin","Witch","Rango","Peter-Pan","mr-Gus","Lantern","Iron-Fist","slimer","ninja","Cragger",
+"Sleepy","Luigi","Greedo"
 ],
   "repository": {
     "type": "git",
