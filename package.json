@@ -3,7 +3,7 @@
   "publisher": "moondevaa",
   "displayName": "Dark Green Jungle theme",
   "description": "  a Relax theme  with dark green jungle color and green palette (Jungle green,Tea green,Sea green,Medium Jungle,) ",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "engines": {
     "vscode": "^1.78.0"
   },
@@ -32,7 +32,7 @@
 "Snail","jay","Kakapo","doctor-doom","loki","piccolo","miss-martian","raphael","zim","cragger","Donatello","gamora","Ben-Tennyson",
 "grinch","Poison-Ivy","Princess","yoda","Mike-Wazowski","hulk","rex","hal-jordan","yoshi","Kermit-the-Frog","oscar","Plankton",
 "mask","Buttercup","Perry-the-Platypus","Goblin","Witch","Rango","Peter-Pan","mr-Gus","Lantern","Iron-Fist","slimer","ninja","Cragger",
-"Sleepy","Luigi","Greedo","hacker"
+"Sleepy","Luigi","Greedo","hacker","shades","shadow"
 ],
   "repository": {
     "type": "git",
