@@ -3,7 +3,7 @@
   "publisher": "moondevaa",
   "displayName": "Dark Green Jungle theme",
   "description": "  a Relax theme  with dark green jungle color and green palette (Jungle green,Tea green,Sea green,Medium Jungle,) ",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "engines": {
     "vscode": "^1.78.0"
   },
@@ -32,7 +32,13 @@
 "Snail","jay","Kakapo","doctor-doom","loki","piccolo","miss-martian","raphael","zim","cragger","Donatello","gamora","Ben-Tennyson",
 "grinch","Poison-Ivy","Princess","yoda","Mike-Wazowski","hulk","rex","hal-jordan","yoshi","Kermit-the-Frog","oscar","Plankton",
 "mask","Buttercup","Perry-the-Platypus","Goblin","Witch","Rango","Peter-Pan","mr-Gus","Lantern","Iron-Fist","slimer","ninja","Cragger",
-"Sleepy","Luigi","Greedo","hacker","shades","shadow"
+"Sleepy","Luigi","Greedo","hacker","shades","shadow","one","pro","is","coming",
+    "juicy","tokyo","atom","darcula","sublime","eva","gruvbox","slak","bluloco","flatland","doki","windows","ariake",
+    "netbeans","hyper","term","code","solarized","snazzy","hop","low","contrast","xcode","nebula","field","ui","predawn","out","run","fusion",
+    "developer","programmer","tiny","pop","lock","ing","vim","august","tooth","delphi","cute","julia","black","board","horizan",
+    "ansi","launch","base","space","atlantic","classic","django","++","son","level","up","kay","laravel","nord","sharp","Dreamweaver",
+    "symfony","jetbrains","python","react","vue","morgan","Quantum","primier","mm","era","glass","arc","bit","anime","over",
+    "lucy","zone","fira","kali","search","song","xp","wild","life","cat"
 ],
   "repository": {
     "type": "git",
