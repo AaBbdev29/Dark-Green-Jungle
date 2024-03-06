@@ -3,7 +3,7 @@
   "publisher": "moondevaa",
   "displayName": "Dark Green Jungle theme",
   "description": "  a Relax theme  with dark green jungle color and green palette (Jungle green,Tea green,Sea green,Medium Jungle,) ",
-  "version": "0.2.5",
+  "version": "0.2.6",
   "engines": {
     "vscode": "^1.78.0"
   },
@@ -41,7 +41,7 @@
     "lucy","zone","fira","kali","search","song","xp","wild","life","cat","c++","c","c#","Live","docker","git","ai","language","debug"
     ,"java","icon","tag","go","beautify","dart","graph","xml","rest","rust","view","project","native","tools","todo","editor",
     "import","format","client","book","blade","babel","data","work","monokaie","sass","compile","profile","function","method",
-    "sql","hint","doc","image","node","snap","shell","cloud","support","case","time","browser","gpt","key","duck","outpot"
+    "sql","hint","doc","image","node","snap","shell","cloud","support","case","time","browser","gpt","key","duck","outpot","garden"
 ],
   "repository": {
     "type": "git",
