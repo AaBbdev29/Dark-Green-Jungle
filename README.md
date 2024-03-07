@@ -28,14 +28,23 @@ fixed most bugs ..
     <h2>Javascript</h2>
     <img src="https://raw.githubusercontent.com/AaBbdev29/Dark-Green-Jungle/main/green.jpg" alt="green">
 </div>
-
+###########
 <div align="center">
     <h2>Python</h2>
     <img src="https://raw.githubusercontent.com/AaBbdev29/Dark-Green-Jungle/main/py.png" alt="python">
 </div>
-
-
-
 ###########
-
-
+<div align="center">
+    <h2>Rust</h2>
+    <img src="https://github.com/AaBbdev29/Dark-Green-Jungle/blob/main/screenshots/rust.png?raw=true" alt="rust">
+</div>
+###########
+<div align="center">
+    <h2>JSON</h2>
+    <img src="https://github.com/AaBbdev29/Dark-Green-Jungle/blob/main/screenshots/json.png?raw=true" alt="json">
+</div>
+###########
+<div align="center">
+    <h2>Html</h2>
+    <img src="https://github.com/AaBbdev29/Dark-Green-Jungle/blob/main/screenshots/html.png?raw=true" alt="html">
+</div>
