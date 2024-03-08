@@ -3,7 +3,7 @@
   "publisher": "moondevaa",
   "displayName": "Dark Green Jungle theme",
   "description": "  a Relax theme  with dark green jungle color and green palette (Jungle green,Tea green,Sea green,Medium Jungle,) ",
-  "version": "0.2.8",
+  "version": "0.2.9",
   "engines": {
     "vscode": "^1.78.0"
   },
@@ -45,6 +45,10 @@
 ,"learn","sumit","ded","free","camp","owl","eva","file","great","teacher","next","ever","miler","ball","zen","burn","karma",
 "tweak","fox","fire","familiar","min","max","natural","extra","x","bed","cobalt","matrix","just","touch","aramok","minor","mine","over",
 "monokai","old","young","hope","coder","soft","hard","eye","friendly","fun","full","office","edge","mirage","notepad","pride","Refined"
+,"trustworthy","intelligent","dependable","wise","reliable","frindly","happy","clean","intersting",
+"broad","well","reasonable","likable","clever","tactful","helpful","imaginative",
+"brilliant","orginal","smart","read","bright","efficint","resource","alert","witty","grateful",
+"flexibility","bold"
 ],
   "repository": {
     "type": "git",
