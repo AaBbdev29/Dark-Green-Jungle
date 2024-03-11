@@ -3,7 +3,7 @@
   "publisher": "moondevaa",
   "displayName": "Dark Green Jungle theme",
   "description": "  a Relax theme  with dark green jungle color and green palette (Jungle green,Tea green,Sea green,Medium Jungle,) ",
-  "version": "0.3.4",
+  "version": "0.3.5",
   "engines": {
     "vscode": "^1.78.0"
   },
@@ -55,7 +55,10 @@
 "earth","solar","system","lush","floral","abloom","flowering","flower","sunny","bush","snippets","base64","bamboo","seed","leaf",
 "branch","bark","maple","oak","birch","willow","pine","vegtable","bay","lake","river","plain","island","valley","beach","magic",
 "keen","pine","fleet","stone","jupyter","pm","am","ever","crayon","raw","rw","xd","github","goal","mr","shell","sh","over","pixel","w3cschool",
-"candy","hour","evening","com","org","us"
+"candy","hour","evening","com","org","us","slate","slinky","aero","spirit","multi","color","blaze","club","abstract","techno","holi","blast","pattern","year",
+"liquid","alien","fairy","wings","vintage","line","vincent","furry","moody","Kryptonite","speed","tab","awesome","act",
+"background","cubes","steel","marvel","vert","aesthetic","rose","donuts"
+
 
 ],
   "repository": {
