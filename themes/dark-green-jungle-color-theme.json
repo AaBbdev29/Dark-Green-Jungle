@@ -280,7 +280,8 @@
       "name": "support.constant.property-value.scss",
       "scope": "support.constant.property-value.scss,support.constant.property-value.css",
       "settings": {
-        "foreground": "#d19a66"
+        "fontStyle": "bold",
+        "foreground": "#29AB87"
       }
     },
     {
@@ -1921,8 +1922,8 @@
     "editorWhitespace.foreground": "#e3e4e229",
     "editor.selectionHighlightBackground": "#add6ff26",
     "editor.selectionHighlightBorder": "#495F77",
-    "editor.findMatchBackground": "#515c6a",
-    "editor.findMatchBorder": "#74879f",
+    "editor.findMatchBackground": "#4d5926",
+    "editor.findMatchBorder": "#568203",
     "editor.findMatchHighlightBackground": "#ea5c0055",
     "editor.findMatchHighlightBorder": "#ffffff00",
     "editor.findRangeHighlightBackground": "#3a3d4166",
